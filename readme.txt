@@ -47,9 +47,9 @@ Yes Of-course in all WordPress Versions.
 
 1. Screenshot 1 are provided for demo use. screenshot-1.png.
 
-1. Screenshot 2 are provided for demo use. screenshot-2.png.
+2. Screenshot 2 are provided for demo use. screenshot-2.png.
 
-1. Screenshot 3 are provided for demo use. screenshot-3.png.
+3. Screenshot 3 are provided for demo use. screenshot-3.png.
 
 == Changelog ==
 
@@ -62,7 +62,5 @@ Yes Of-course in all WordPress Versions.
 Stable Version works with all WordPress Versions
 
 == A brief Markdown Example ==
-
-Ordered list:
 
 1. Adds Toggle to WordPress SubMenu's
