@@ -52,6 +52,11 @@ function amt_custom_menu_class() {
 			top: auto;
 			display: block;
 		}
+		#adminmenumain {
+			clear: none;
+			float: left;
+			overflow: hidden;
+		}
 		-->		
 	</style>
 	<script>	
