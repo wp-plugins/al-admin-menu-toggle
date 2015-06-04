@@ -57,6 +57,9 @@ function amt_custom_menu_class() {
 			float: left;
 			overflow: hidden;
 		}
+		body {
+			height: auto;
+		}
 		-->		
 	</style>
 	<script>	
