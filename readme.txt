@@ -40,7 +40,7 @@ Using Basic JQuery and CSS.
 
 = Is this works in all versions? =
 
-Yes Of-course in all vWordPress Versions.
+Yes Of-course in all WordPress Versions.
 
 
 == Screenshots ==
