@@ -60,6 +60,9 @@ function amt_custom_menu_class() {
 		body {
 			height: auto;
 		}
+		.sticky-menu #adminmenuwrap {
+			position: relative;
+		}
 		-->		
 	</style>
 	<script>	
