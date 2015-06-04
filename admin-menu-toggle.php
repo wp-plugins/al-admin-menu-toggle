@@ -3,7 +3,7 @@
 Plugin Name: AL | Admin Menu Toggle
 Plugin URI: #
 Description: Creates Toggle Menu for WP Admin Sidebar.
-Author: Team Abacies
+Author: Sudhakar
 Author URI: #
 Version: 1.0.0
 */
