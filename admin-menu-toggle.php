@@ -2,7 +2,7 @@
 /*
 Plugin Name: AL | Admin Menu Toggle
 Plugin URI: https://wordpress.org/plugins/al-admin-menu-toggle/
-Description: 	Creates Toggle Menu for WordPress Admin Menu in the Sidebar.   Easy to Install!!!   Easy to Use!!!
+Description: 	Creates Toggle Menu for WordPress Admin Menu in the Sidebar.   Easy to Install and Easy to Use!!!
 Author: Sudhakar. C
 Author URI: https://profiles.wordpress.org/sudhakarc410/
 Version: 1.0.0
